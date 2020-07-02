@@ -20,3 +20,15 @@ Programmers Lv.1 2016년
 Programmers Lv.1 같은 숫자는 싫어
 Programmers Lv.1 문자열 내 마음대로 정렬하기
 Programmers Lv.2 기능개발
+
+[2020. 07. 02]
+SWEA Lv.1 (2046) 홀수만 더하기
+SWEA Lv.1 (2047) 신문 헤드라인
+SWEA Lv.1 (2050) 알파벳을 숫자로 변환
+SWEA Lv.1 (2056) 연월일 달력
+SWEA Lv.1 (2058) 자릿수 더하기
+SWEA Lv.1 (2063) 중간값 찾기
+SWEA Lv.1 (2068) 최대수 구하기
+SWEA Lv.1 (2070) 큰 놈, 작은 놈, 같은 놈
+SWEA Lv.1 (2071) 평균값 구하기
+SWEA Lv.1 (2072) 홀수만 더하기
