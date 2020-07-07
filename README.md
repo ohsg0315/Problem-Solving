@@ -78,3 +78,4 @@ SWEA Lv.2 (1979) 어디에 단어가 들어갈 수 있을까
 SWEA Lv.2 (1928) Base64 Decoder  
 SWEA Lv.2 (1285) 아름이의 돌 던지기  
 SWEA Lv.2 (1284) 수도 요금 경쟁  
+SWEA Lv.3 (1206) View  
