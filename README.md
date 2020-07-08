@@ -79,3 +79,11 @@ SWEA Lv.2 (1928) Base64 Decoder
 SWEA Lv.2 (1285) 아름이의 돌 던지기  
 SWEA Lv.2 (1284) 수도 요금 경쟁  
 SWEA Lv.3 (1206) View  
+
+## [2020. 07. 08]
+SWEA Lv.3 (2806) N-Queen  
+SWEA Lv.3 (1208) Flatten  
+SWEA Lv.3 (9940) 순열1  
+SWEA Lv.3 (10059) 유효기간  
+SWEA Lv.3 (10032) 과자 분배  
+SWEA Lv.3 (9997) 미니멀리즘 시계  
