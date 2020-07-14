@@ -106,3 +106,10 @@ SWEA Lv.3 (9229) 한빈이와 Spot Mart
 Programmers Lv.2 더 맵게  
 Programmers Lv.2 124 나라의 숫자  
 Programmers Lv.2 프린터  
+
+## [2020. 07. 14]  
+SWEA Lv.3 (8821) 적고 지우기  
+SWEA Lv.3 (8840) 아바바바  
+SWEA Lv.3 (8741) 두문자어  
+SWEA Lv.3 (8658) Summation  
+SWEA Lv.3 (8673) 코딩 토너먼트1  
