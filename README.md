@@ -123,3 +123,8 @@ SWEA Lv.3 (8457) 알 덴테 스파게티
 SWEA Lv.3 (8338) 계산기  
 SWEA Lv.3 (8104) 조 만들기  
 SWEA Lv.3 (8016) 홀수 피라미드  
+
+## [2020. 07. 17]  
+SWEA Lv.3 (7985) Rooted Binary Tree 재구성  
+SWEA Lv.3 (1209) Sum  
+SWEA Lv.3 (2817) 부분 수열의 합  
