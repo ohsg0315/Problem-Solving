@@ -2,8 +2,6 @@ import java.util.*;
 import java.io.*;
 
 public class Main {
-    private static int[] cache;
-
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer tokenizer = new StringTokenizer(br.readLine(), " ");
