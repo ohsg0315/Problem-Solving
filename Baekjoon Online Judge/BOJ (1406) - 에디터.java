@@ -2,7 +2,55 @@ import java.util.*;
 import java.io.*;
 
 public class Main {
-    public static void main(String[] args) throws IOException {
+    // LinkedList 사용
+    private static void editorLinkedList() throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String s = br.readLine();
+        int N = Integer.parseInt(br.readLine());
+        int index = s.length();
+        LinkedList<Character> list = new LinkedList<>();
+        for (int i = 0; i < index; i++) {
+            list.add(s.charAt(i));
+        }
+        ListIterator it = list.listIterator(list.size());
+
+        for (int i = 0; i < N; i++) {
+            String command = br.readLine();
+            char c = command.charAt(0);
+
+            switch (c) {
+                case 'L':
+                    if (it.hasPrevious()) {
+                        it.previous();
+                    }
+                    break;
+                case 'D':
+                    if (it.hasNext()) {
+                        it.next();
+                    }
+                    break;
+                case 'B':
+                    if (it.hasPrevious()) {
+                        it.previous();
+                        it.remove();
+                    }
+                    break;
+                case 'P':
+                    char input = command.charAt(2);
+                    it.add(input);
+                    break;
+            }
+        }
+        StringBuilder sb = new StringBuilder(list.size());
+        Iterator<Character> iter = list.iterator();
+        while (iter.hasNext()) {
+            sb.append(iter.next());
+        }
+        System.out.println(sb);
+    }
+
+    // Stack 사용
+    private static void editorStack() throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         Stack<Character> leftStack = new Stack<>(), rightStack = new Stack<>();
         String s = br.readLine();
@@ -51,5 +99,10 @@ public class Main {
             sb.append(rightStack.pop());
         }
         System.out.println(sb);
+    }
+
+    public static void main(String[] args) throws IOException {
+        editorLinkedList(); // 좀 더 빠르다.
+        // editorStack();
     } // end of main
 } // end of class
