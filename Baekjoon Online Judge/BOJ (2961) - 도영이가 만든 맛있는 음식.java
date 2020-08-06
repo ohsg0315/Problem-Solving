@@ -34,8 +34,8 @@ public class Main {
         for (int i = 0; i < n; i++) {
             tokenizer = new StringTokenizer(br.readLine());
 
-            taste[i][0] = Integer.parseInt(tokenizer.nextToken());
-            taste[i][1] = Integer.parseInt(tokenizer.nextToken());
+            taste[i][0] = Long.parseLong(tokenizer.nextToken());
+            taste[i][1] = Long.parseLong(tokenizer.nextToken());
         }
 
         dfs(1, 0, 0);
