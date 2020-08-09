@@ -7,7 +7,7 @@ public class Main {
     private static boolean[] selected;
     private static BufferedWriter wr;
 
-    private static void permutation(int idx, int cnt) throws IOException {
+    private static void combination(int idx, int cnt) throws IOException {
         if (cnt == r) {
             for (int i = 0; i < r - 1; i++) {
                 wr.write(res[i] + " ");
@@ -17,7 +17,7 @@ public class Main {
         }
         for (int i = idx; i < n + 1; i++) {
             res[cnt] = i;
-            permutation(i + 1, cnt + 1);
+            combination(i + 1, cnt + 1);
         }
     }
 
@@ -30,7 +30,7 @@ public class Main {
         res = new int[r];
         selected = new boolean[n + 1];
 
-        permutation(1, 0);
+        combination(1, 0);
         wr.close();
     } // end of main
 } // end of class
