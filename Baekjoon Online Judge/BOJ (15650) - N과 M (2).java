@@ -4,7 +4,6 @@ import java.io.*;
 public class Main {
     private static int n, r;
     private static int[] res;
-    private static boolean[] selected;
     private static BufferedWriter wr;
 
     private static void combination(int idx, int cnt) throws IOException {
@@ -28,7 +27,6 @@ public class Main {
         n = Integer.parseInt(tokenizer.nextToken());
         r = Integer.parseInt(tokenizer.nextToken());
         res = new int[r];
-        selected = new boolean[n + 1];
 
         combination(1, 0);
         wr.close();
