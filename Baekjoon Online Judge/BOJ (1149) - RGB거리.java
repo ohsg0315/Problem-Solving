@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 
 public class Main {
-    private static int n, r;
+    private static int n;
     private static int[][] home;
     private static int[][] cache;
 
