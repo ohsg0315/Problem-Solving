@@ -7,6 +7,7 @@ public class Main {
     private static final int[] dx = {1, -1, 0, 0};
     private static final int[] dy = {0, 0, -1, 1};
     private static int[][] map, dice;
+    private static StringBuilder sb;
 
     private static boolean isRange(int x, int y) {
         return x >= 0 && y >= 0 && x < m && y < n;
@@ -61,7 +62,7 @@ public class Main {
                 dice[3][1] = map[y][x];
                 map[y][x] = 0;
             }
-            System.out.println(dice[1][1]);
+            sb.append(dice[1][1]).append("\n");
         }
     }
 
@@ -89,6 +90,8 @@ public class Main {
         }
 
         dice = new int[4][3];
+        sb = new StringBuilder();
         playGame(y, x);
+        System.out.print(sb.toString());
     } // end of main
 } // end of class
