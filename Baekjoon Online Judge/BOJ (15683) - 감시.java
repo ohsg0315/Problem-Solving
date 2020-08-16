@@ -53,8 +53,8 @@ public class Main {
             case 3: // 서
                 while (isRange(--x, y) && next[y][x] != '6'){
                 next[y][x] = '#';
-            }
-            break;
+                }
+                break;
         }
     }
 
