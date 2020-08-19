@@ -4,7 +4,6 @@ import java.io.*;
 public class Main {
     private static long res;
     private static int[][] dist;
-    private static boolean[] visited;
     private static ArrayList<Vertex>[] edegs;
 
     private static class Vertex implements Comparable<Vertex> {
