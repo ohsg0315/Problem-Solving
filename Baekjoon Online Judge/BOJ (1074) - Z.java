@@ -15,6 +15,10 @@ public class Main {
             cnt++;
             return;
         }
+        if (r >= y + n || y > r || c >= x + n || x > c) {
+            cnt += n * n;
+            return;
+        }
         dq(n / 2, x, y);
         dq(n / 2, x + n / 2, y);
         dq(n / 2, x, y + n / 2);
