@@ -4,16 +4,19 @@ import java.io.*;
 public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int N = Integer.parseInt(br.readLine());
-        StringTokenizer tokenizer;
-        ArrayList<Integer> arr = new ArrayList<>();
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-        for (int i = 0; i < N; i++) {
-            arr.add(Integer.parseInt(br.readLine()));
+        int n = Integer.parseInt(br.readLine());
+        ArrayList<Integer> list = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            list.add(Integer.parseInt(br.readLine()));
         }
-        Collections.sort(arr);
-        for (int i = 0; i < N; i++) {
-            System.out.println(arr.get(i));
+
+        Collections.sort(list);
+        for (int i : list) {
+            bw.write(i + "\n");
         }
+        bw.close();
+        br.close();
     } // end of main
-} // end of class
+}
