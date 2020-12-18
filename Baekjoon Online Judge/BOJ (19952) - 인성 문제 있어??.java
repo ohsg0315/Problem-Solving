@@ -72,6 +72,6 @@ public class Main {
             else
                 sb.append("인성 문제있어??").append('\n');
         } // end of while
-        System.out.println(sb.toString());
+        System.out.print(sb.toString());
     } // end of main
 }
