@@ -677,8 +677,8 @@ BOJ (1062) 가르침
 ## [2020. 12. 01]
 
 BOJ (10773) 제로  
-BOJ (6198) 옥상 정원 꾸미기  
-BOJ (2357) 최솟값과 최댓값
+BOJ (6198) 옥상 정원 꾸미기   
+BOJ (2357) 최솟값과 최댓값  
 
 ## [2020. 12. 02]
 
@@ -730,12 +730,12 @@ BOJ (17478) 재귀함수가 뭔가요?
 
 ## [2020. 12. 17]
 
-BOJ (1966) 프린터 큐
+BOJ (1966) 프린터 큐  
 BOJ (18353) 병사 배치하기
 
 ## [2020. 12. 18]
 
-BOJ (19952) 인성 문제 있어??
+BOJ (19952) 인성 문제 있어??  
 BOJ (2675) 문자열 반복
 
 ## [2020. 12. 19]
@@ -749,8 +749,8 @@ BOJ (2579) 계단 오르기
 
 ## [2020. 12. 21]
 
-BOJ (2669) 직사각형 네개의 합집합의 면적 구하기
-BOJ (8979) 올림픽
+BOJ (2669) 직사각형 네개의 합집합의 면적 구하기  
+BOJ (8979) 올림픽  
 BOJ (2511) 카드놀이
 
 ## [2020. 12. 22]
@@ -809,7 +809,7 @@ BOJ (10546) 배부른 마라토너
 
 ## [2022. 02. 01]
 
-LeetCode (2) Add Two Numbers
+LeetCode (2) Add Two Numbers  
 LeetCode (121) Best Time to Buy and Sell Stock
 
 ## [2022. 02. 02]
@@ -818,8 +818,8 @@ LeetCode (438) Find All Anagrams in a String
 
 ## [2022. 02. 03]
 
-LeetCode (1) Two Sum
-LeetCode (3) Longest Substring Without Repeating Characters
+LeetCode (1) Two Sum  
+LeetCode (3) Longest Substring Without Repeating Characters  
 LeetCode (454) 4Sum II
 
 ## [2022. 02. 07]
@@ -829,6 +829,10 @@ LeetCode (389) Find the Difference
 ## [2022. 02. 08]
 
 LeetCode (258) Add Digits
+
+## [2022. 02. 09]
+
+LeetCode (532) K-diff Pairs in an Array
 
 </div>
 </details>
