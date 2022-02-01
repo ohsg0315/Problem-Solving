@@ -1,7 +1,10 @@
 # < For studying algorithm >
 
+<details>
+<summary> [2020.06 - 2020.12]</summary>
+<div markdown="1">
 
-## **[2020. 06. 28]**
+## [2020. 06. 28]
 
 Programmers Lv.2 위장
 
@@ -768,6 +771,13 @@ BOJ (15654) N과 M (5)
 
 BOJ (11286) 절댓값 힙
 
+</div>
+</details>
+
+<details>
+<summary>[2021.01 - 2021. 02]</summary>
+<div markdown="1">
+
 ## [2021. 01. 05]
 
 BOJ (1157) 단어 공부
@@ -788,4 +798,17 @@ BOJ (14496) 그대, 그머가 되어
 
 BOJ (10546) 배부른 마라토너
 
-## [2020. 02. 03]
+</div>
+</details>
+
+<details>
+<summary>[2022.02 - ]</summary>
+<div markdown="1">
+
+## [2022. 02. 01]
+
+LeetCode (121) Best Time to Buy and Sell Stock
+
+</div>
+</details>
+
