@@ -808,6 +808,7 @@ BOJ (10546) 배부른 마라토너
 ## [2022. 02. 01]
 
 LeetCode (121) Best Time to Buy and Sell Stock
+LeetCode (2) Add Two Numbers
 
 </div>
 </details>
