@@ -1,6 +1,6 @@
 # < For studying algorithm >
 
-| [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ohsg0315)](https://github.com/KnlnKS/leetcode-stats) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohsg_0315)](https://solved.ac/ohsg_0315/) |
+| [![Seong's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ohsg0315)](https://github.com/KnlnKS/leetcode-stats) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohsg_0315)](https://solved.ac/ohsg_0315/) |
 
 <details>
 <summary> [2020.06 - 2020.12]</summary>
