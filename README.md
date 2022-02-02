@@ -807,8 +807,12 @@ BOJ (10546) 배부른 마라토너
 
 ## [2022. 02. 01]
 
-LeetCode (121) Best Time to Buy and Sell Stock
 LeetCode (2) Add Two Numbers
+LeetCode (121) Best Time to Buy and Sell Stock
+
+## [2022. 02. 02]
+
+LeetCode (438) Find All Anagrams in a String
 
 </div>
 </details>
