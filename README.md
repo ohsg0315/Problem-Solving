@@ -1,6 +1,6 @@
 # < For studying algorithm >
 
-| [![Seong's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ohsg0315)](https://github.com/KnlnKS/leetcode-stats) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohsg_0315)](https://solved.ac/ohsg_0315/) |
+| [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ohsg0315)](https://github.com/KnlnKS/leetcode-stats) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohsg_0315)](https://solved.ac/ohsg_0315/) |
 
 <details>
 <summary> [2020.06 - 2020.12]</summary>
@@ -816,6 +816,9 @@ LeetCode (121) Best Time to Buy and Sell Stock
 
 LeetCode (438) Find All Anagrams in a String
 
+## [2022. 02. 03]
+
+LeetCode (454) 4Sum II
+
 </div>
 </details>
-
