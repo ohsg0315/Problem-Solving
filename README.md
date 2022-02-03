@@ -819,6 +819,7 @@ LeetCode (438) Find All Anagrams in a String
 ## [2022. 02. 03]
 
 LeetCode (1) Two Sum
+LeetCode (3) Longest Substring Without Repeating Characters
 LeetCode (454) 4Sum II
 
 </div>
