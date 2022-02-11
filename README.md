@@ -838,5 +838,9 @@ LeetCode (532) K-diff Pairs in an Array
 
 LeetCode (560) Subarray Sum Equals K
 
+## [2022. 02. 11]
+
+LeetCode (567) Permutation in String
+
 </div>
 </details>
