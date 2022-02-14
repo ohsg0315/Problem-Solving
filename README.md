@@ -842,8 +842,13 @@ LeetCode (560) Subarray Sum Equals K
 
 LeetCode (567) Permutation in String
 
-## [2022. 02. 13
+## [2022. 02. 13]
 
 LeetCode (78) Subsets
+
+## [2022. 02. 14]
+
+LeetCode (104) Maximum Depth of Binary Tree
+
 </div>
 </details>
