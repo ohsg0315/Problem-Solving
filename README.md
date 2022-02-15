@@ -850,5 +850,9 @@ LeetCode (78) Subsets
 
 LeetCode (104) Maximum Depth of Binary Tree
 
+## [2022. 02. 15]
+
+LeetCode (136) Single Number
+
 </div>
 </details>
