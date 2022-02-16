@@ -855,8 +855,13 @@ LeetCode (104) Maximum Depth of Binary Tree
 LeetCode (136) Single Number
 
 ## [2022. 02. 16]
+
 LeetCode (23) Merge k Sorted Lists
 LeetCode (24) Swap Nodes in Pairs
+
+## [2022. 02. 17]
+
+BOJ (2581)  소수
 
 </div>
 </details>
