@@ -856,12 +856,17 @@ LeetCode (136) Single Number
 
 ## [2022. 02. 16]
 
-LeetCode (23) Merge k Sorted Lists
+LeetCode (23) Merge k Sorted Lists  
 LeetCode (24) Swap Nodes in Pairs
 
 ## [2022. 02. 17]
 
 BOJ (2581)  소수
+
+## [2022. 02. 18]
+
+LeetCode (402) Remove K Digits  
+LeetCode (525) Contiguous Array
 
 </div>
 </details>
