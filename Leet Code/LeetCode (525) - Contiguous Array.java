@@ -10,15 +10,14 @@ class Solution {
             int number = nums[index] == 1 ? 1 : -1;
 
             total += number;
-            if (!map.containsKey(total)) {
-                map.put(total, index);
-            }
-
             if (total == 0) {
                 result = Math.max(result, index + 1);
             }
-            else if (map.containsKey(total)) {
+
+            if (map.containsKey(total)) {
                 result = Math.max(result, index - map.get(total));
+            } else {
+                map.put(total, index);
             }
         }
 
