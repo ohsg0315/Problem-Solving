@@ -1,7 +1,7 @@
 import java.util.Stack;
 
 class Solution {
-    public static String removeKdigits(String num, int k) {
+    public String removeKdigits(String num, int k) {
         Stack<Character> stack = new Stack<>();
 
         for (int i = 0, length = num.length(); i < length; i++) {
