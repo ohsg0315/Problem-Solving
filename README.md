@@ -868,5 +868,10 @@ BOJ (2581)  소수
 LeetCode (402) Remove K Digits  
 LeetCode (525) Contiguous Array
 
+## [2022. 02. 19]
+
+LeetCode (80) Remove Duplicates from Sorted Array II  
+LeetCode (1675) Minimize Deviation in Array
+
 </div>
 </details>
