@@ -3,18 +3,18 @@ import java.util.Arrays;
 class Solution {
     public int removeDuplicates(int[] nums) {
         boolean moreThanTwo = false;
-        int cur = Integer.MIN_VALUE, result = 0;
+        int before = Integer.MIN_VALUE, result = 0;
 
         for (int i = 0, length = nums.length; i < length; i++) {
             result++;
-            if (cur == nums[i]) {
+            if (before == nums[i]) {
                 if (moreThanTwo) {
                     result--;
                     nums[i] = Integer.MAX_VALUE;
                 }
                 moreThanTwo = true;
             }else {
-                cur = nums[i];
+                before = nums[i];
                 moreThanTwo = false;
             }
         }
