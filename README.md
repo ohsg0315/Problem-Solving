@@ -873,5 +873,13 @@ LeetCode (525) Contiguous Array
 LeetCode (80) Remove Duplicates from Sorted Array II  
 LeetCode (1675) Minimize Deviation in Array
 
+## [2022. 02. 20]
+
+LeetCode (51) N-Queens
+
+## [2022. 02. 21]
+
+LeetCode (169) - Majority Element
+
 </div>
 </details>
