@@ -879,7 +879,11 @@ LeetCode (51) N-Queens
 
 ## [2022. 02. 21]
 
-LeetCode (169) - Majority Element
+LeetCode (169) Majority Element
+
+## [2022. 02. 22]
+
+LeetCode (171) Excel Sheet Column Number
 
 </div>
 </details>
