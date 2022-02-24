@@ -889,5 +889,9 @@ LeetCode (171) Excel Sheet Column Number
 
 LeetCode (133) Clone Graph
 
+## [2022. 02. 24]
+
+LeetCode (148) Sort List
+
 </div>
 </details>
