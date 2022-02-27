@@ -899,6 +899,8 @@ LeetCode (165) Compare Version Numbers
 
 ## [2022. 02. 27]
 
+LeetCode (6) Zigzag Conversion  
+LeetCode (8) String to Integer (atoi)  
 LeetCode (662) Maximum Width of Binary Tree
 
 </div>
