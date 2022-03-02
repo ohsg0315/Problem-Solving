@@ -909,7 +909,12 @@ LeetCode (228) Summary Ranges
 
 ## [2022. 03. 01]
 
+LeetCode (9) Palindrome Number  
 LeetCode (338) Counting Bits
+
+## [2022. 03. 02]
+
+LeetCode (392) Is Subsequence
 
 </div>
 </details>
