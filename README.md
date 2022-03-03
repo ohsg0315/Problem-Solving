@@ -916,5 +916,10 @@ LeetCode (338) Counting Bits
 
 LeetCode (392) Is Subsequence
 
+## [2022. 03. 03]
+
+LeetCode (15) 3Sum  
+LeetCode (413) Arithmetic Slices
+
 </div>
 </details>
