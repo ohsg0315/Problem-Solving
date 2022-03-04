@@ -921,5 +921,16 @@ LeetCode (392) Is Subsequence
 LeetCode (15) 3Sum  
 LeetCode (413) Arithmetic Slices
 
+## [2022. 03. 04]
+
+LeetCode (799) Champagne Tower
+
+## [2022. 03. 05]
+
+LeetCode (14) Longest Common Prefix  
+LeetCode (17) Letter Combinations of a Phone Number  
+LeetCode (26) Remove Duplicates from Sorted Array  
+LeetCode (41) First Missing Positive
+
 </div>
 </details>
