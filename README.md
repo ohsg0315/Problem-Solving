@@ -945,5 +945,11 @@ LeetCode (29) Divide Two Integers
 LeetCode (35) Search Insert Position  
 LeetCode (1920) Build Array from Permutation
 
+## [2022. 03. 08]
+
+LeetCode (27) Remove Element  
+LeetCode (39) Combination Sum  
+LeetCode (141) Linked List Cycle
+
 </div>
 </details>
