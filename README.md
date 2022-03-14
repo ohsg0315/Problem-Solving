@@ -816,60 +816,47 @@ LeetCode (121) Best Time to Buy and Sell Stock
 
 LeetCode (438) Find All Anagrams in a String
 
-## [2022. 02. 03]
-
+## [2022. 02. 03]  
 LeetCode (1) Two Sum  
 LeetCode (3) Longest Substring Without Repeating Characters  
 LeetCode (454) 4Sum II
 
-## [2022. 02. 07]
-
+## [2022. 02. 07]  
 LeetCode (389) Find the Difference
 
-## [2022. 02. 08]
-
+## [2022. 02. 08]  
 LeetCode (258) Add Digits
 
-## [2022. 02. 09]
-
+## [2022. 02. 09]  
 LeetCode (532) K-diff Pairs in an Array
 
-## [2022. 02. 10]
-
+## [2022. 02. 10]  
 LeetCode (560) Subarray Sum Equals K
 
-## [2022. 02. 11]
-
+## [2022. 02. 11]  
 LeetCode (567) Permutation in String
 
-## [2022. 02. 13]
-
+## [2022. 02. 13]  
 LeetCode (78) Subsets
 
-## [2022. 02. 14]
-
+## [2022. 02. 14]  
 LeetCode (104) Maximum Depth of Binary Tree
 
-## [2022. 02. 15]
-
+## [2022. 02. 15]  
 LeetCode (136) Single Number
 
-## [2022. 02. 16]
-
+## [2022. 02. 16]  
 LeetCode (23) Merge k Sorted Lists  
 LeetCode (24) Swap Nodes in Pairs
 
-## [2022. 02. 17]
-
+## [2022. 02. 17]  
 BOJ (2581)  소수
 
-## [2022. 02. 18]
-
+## [2022. 02. 18]  
 LeetCode (402) Remove K Digits  
 LeetCode (525) Contiguous Array
 
-## [2022. 02. 19]
-
+## [2022. 02. 19]  
 LeetCode (80) Remove Duplicates from Sorted Array II  
 LeetCode (1675) Minimize Deviation in Array
 
@@ -877,89 +864,79 @@ LeetCode (1675) Minimize Deviation in Array
 
 LeetCode (51) N-Queens
 
-## [2022. 02. 21]
-
+## [2022. 02. 21]  
 LeetCode (169) Majority Element
 
-## [2022. 02. 22]
-
+## [2022. 02. 22]  
 LeetCode (171) Excel Sheet Column Number
 
-## [2022. 02. 23]
-
+## [2022. 02. 23]  
 LeetCode (133) Clone Graph
 
-## [2022. 02. 24]
-
+## [2022. 02. 24]  
 LeetCode (148) Sort List
 
-## [2022. 02. 25]
-
+## [2022. 02. 25]  
 LeetCode (165) Compare Version Numbers
 
-## [2022. 02. 27]
-
+## [2022. 02. 27]  
 LeetCode (6) Zigzag Conversion  
 LeetCode (8) String to Integer (atoi)  
 LeetCode (662) Maximum Width of Binary Tree
 
-## [2022. 02. 28]
-
+## [2022. 02. 28]  
 LeetCode (228) Summary Ranges
 
-## [2022. 03. 01]
-
+## [2022. 03. 01]  
 LeetCode (9) Palindrome Number  
 LeetCode (338) Counting Bits
 
-## [2022. 03. 02]
-
+## [2022. 03. 02]  
 LeetCode (392) Is Subsequence
 
-## [2022. 03. 03]
-
+## [2022. 03. 03]  
 LeetCode (15) 3Sum  
 LeetCode (413) Arithmetic Slices
 
-## [2022. 03. 04]
-
+## [2022. 03. 04]  
 LeetCode (799) Champagne Tower
 
-## [2022. 03. 05]
-
+## [2022. 03. 05]  
 LeetCode (14) Longest Common Prefix  
 LeetCode (17) Letter Combinations of a Phone Number  
 LeetCode (26) Remove Duplicates from Sorted Array  
 LeetCode (41) First Missing Positive
 
-## [2022. 03. 06]
-
+## [2022. 03. 06]  
 LeetCode (122) Best Time to Buy and Sell Stock II  
 LeetCode (740) Delete and Earn  
 LeetCode (1359) Count All Valid Pickup and Delivery Options
 
-## [2022. 03. 07]
-
+## [2022. 03. 07]  
 LeetCode (21) Merge Two Sorted Lists  
 LeetCode (29) Divide Two Integers  
 LeetCode (35) Search Insert Position  
 LeetCode (1920) Build Array from Permutation
 
-## [2022. 03. 08]
-
+## [2022. 03. 08]  
 LeetCode (27) Remove Element  
 LeetCode (39) Combination Sum  
 LeetCode (141) Linked List Cycle
 
-## [2022. 03. 09]
-
+## [2022. 03. 09]  
 LeetCode (19) Remove Nth Node From End of List  
 LeetCode (82) Remove Duplicates from Sorted List II  
 LeetCode (200) Number of Islands
 
-## [2022. 03. 10]
-
+## [2022. 03. 10]  
 LeetCode (20) Valid Parentheses
+
+## [2022. 03. 13]  
+LeetCode (28) Implement strStr()
+
+## [2022. 03. 14]  
+LeetCode (36) Valid Sudoku  
+LeetCode (71) Simplify Path
 
 </div>
 </details>
