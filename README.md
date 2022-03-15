@@ -938,5 +938,8 @@ LeetCode (28) Implement strStr()
 LeetCode (36) Valid Sudoku  
 LeetCode (71) Simplify Path
 
+## [2022. 03. 15]  
+LeetCode (1249) Minimum Remove to Make Valid Parentheses
+
 </div>
 </details>
