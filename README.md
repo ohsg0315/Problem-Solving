@@ -941,5 +941,13 @@ LeetCode (71) Simplify Path
 ## [2022. 03. 15]  
 LeetCode (1249) Minimum Remove to Make Valid Parentheses
 
+## [2022. 03. 16]  
+LeetCode (46) Permutations  
+LeetCode (946) Validate Stack Sequences
+
+## [2022. 03. 17]  
+LeetCode (22) Generate Parentheses  
+LeetCode (856) Score of Parentheses
+
 </div>
 </details>
