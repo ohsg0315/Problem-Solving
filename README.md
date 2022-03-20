@@ -949,5 +949,11 @@ LeetCode (946) Validate Stack Sequences
 LeetCode (22) Generate Parentheses  
 LeetCode (856) Score of Parentheses
 
+## [2022. 03. 18]  
+LeetCode (316) Remove Duplicate Letters
+
+## [2022. 03. 20]  
+LeetCode (1007) Minimum Domino Rotations For Equal Row
+
 </div>
 </details>
