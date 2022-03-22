@@ -955,5 +955,10 @@ LeetCode (316) Remove Duplicate Letters
 ## [2022. 03. 20]  
 LeetCode (1007) Minimum Domino Rotations For Equal Row
 
+## [2022. 03. 22]  
+LeetCode (763) Partition Labels  
+LeetCode (895) Maximum Frequency Stack  
+LeetCode (1663) Smallest String With A Given Numeric Value
+
 </div>
 </details>
