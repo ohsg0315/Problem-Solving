@@ -960,5 +960,14 @@ LeetCode (763) Partition Labels
 LeetCode (895) Maximum Frequency Stack  
 LeetCode (1663) Smallest String With A Given Numeric Value
 
+## [2022. 03. 23]  
+LeetCode (991) Broken Calculator
+
+## [2022. 03. 24]  
+LeetCode (881) Boats to Save People
+
+## [2022. 03. 26]  
+LeetCode (47) Permutations II  
+LeetCode (704) Binary Search
 </div>
 </details>
