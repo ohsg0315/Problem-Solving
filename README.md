@@ -969,5 +969,12 @@ LeetCode (881) Boats to Save People
 ## [2022. 03. 26]  
 LeetCode (47) Permutations II  
 LeetCode (704) Binary Search
+
+## [2022. 03. 27]  
+BOJ (10974) 모든 순열  
+LeetCode (31) Next Permutation  
+LeetCode (1029) Two City Scheduling  
+LeetCode (1337) The K Weakest Rows in a Matrix
+
 </div>
 </details>
