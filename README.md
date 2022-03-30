@@ -980,5 +980,8 @@ LeetCode (1337) The K Weakest Rows in a Matrix
 LeetCode (49) Group Anagrams  
 LeetCode (81) Search in Rotated Sorted Array II
 
+## [2022. 03. 30]  
+LeetCode (74) Search a 2D Matrix
+
 </div>
 </details>
