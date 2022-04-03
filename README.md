@@ -989,5 +989,8 @@ LeetCode (344) Reverse String
 ## [2022. 04. 02]  
 LeetCode (680) Valid Palindrome II
 
+## [2022. 04. 03]  
+LeetCode (287) Find the Duplicate Number
+
 </div>
 </details>
