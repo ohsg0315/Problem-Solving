@@ -1002,5 +1002,9 @@ LeetCode (13) Roman to Integer
 ## [2022. 04. 06]  
 LeetCode (923) 3Sum With Multiplicity
 
+## [2022. 04. 07]  
+LeetCode (16) 3Sum Closest  
+LeetCode (1046) Last Stone Weight
+
 </div>
 </details>
