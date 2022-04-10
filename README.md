@@ -1006,5 +1006,14 @@ LeetCode (923) 3Sum With Multiplicity
 LeetCode (16) 3Sum Closest  
 LeetCode (1046) Last Stone Weight
 
+## [2022. 04. 08]  
+LeetCode (703) Kth Largest Element in a Stream
+
+## [2022. 04. 09]  
+LeetCode (347) Top K Frequent Elements
+
+## [2022. 04. 10]  
+LeetCode (682) Baseball Game
+
 </div>
 </details>
