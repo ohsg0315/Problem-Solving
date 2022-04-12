@@ -1018,5 +1018,8 @@ LeetCode (682) Baseball Game
 ## [2022. 04. 11]  
 LeetCode (1260) Shift 2D Grid
 
+## [2022. 04. 12]  
+LeetCode (289) Game of Life
+
 </div>
 </details>
