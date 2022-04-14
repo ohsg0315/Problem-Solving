@@ -1021,5 +1021,11 @@ LeetCode (1260) Shift 2D Grid
 ## [2022. 04. 12]  
 LeetCode (289) Game of Life
 
+## [2022. 04. 13]  
+LeetCode (59) Spiral Matrix II
+
+## [2022. 04. 14]  
+LeetCode (700) Search in a Binary Search Tree
+
 </div>
 </details>
