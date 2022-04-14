@@ -1025,6 +1025,7 @@ LeetCode (289) Game of Life
 LeetCode (59) Spiral Matrix II
 
 ## [2022. 04. 14]  
+LeetCode (34) Find First and Last Position of Element in Sorted Array  
 LeetCode (700) Search in a Binary Search Tree
 
 </div>
