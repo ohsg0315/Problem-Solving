@@ -1028,5 +1028,8 @@ LeetCode (59) Spiral Matrix II
 LeetCode (34) Find First and Last Position of Element in Sorted Array  
 LeetCode (700) Search in a Binary Search Tree
 
+## [2022. 04. 16]  
+LeetCode (538) Convert BST to Greater Tree
+
 </div>
 </details>
