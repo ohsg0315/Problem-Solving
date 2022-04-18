@@ -1031,5 +1031,11 @@ LeetCode (700) Search in a Binary Search Tree
 ## [2022. 04. 16]  
 LeetCode (538) Convert BST to Greater Tree
 
+## [2022. 04. 17]  
+LeetCode (897) Increasing Order Search Tree
+
+## [2022. 04. 18]  
+LeetCode (230) Kth Smallest Element in a BST
+
 </div>
 </details>
