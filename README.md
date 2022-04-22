@@ -1044,5 +1044,11 @@ LeetCode (99) Recover Binary Search Tree
 ## [2022. 04. 20]  
 LeetCode (173) Binary Search Tree Iterator
 
+## [2022. 04. 21]  
+LeetCode (705) Design HashSet
+
+## [2022. 04. 22]  
+LeetCode (706) Design HashMap
+
 </div>
 </details>
