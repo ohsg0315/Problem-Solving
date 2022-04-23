@@ -1050,5 +1050,9 @@ LeetCode (705) Design HashSet
 ## [2022. 04. 22]  
 LeetCode (706) Design HashMap
 
+## [2022. 04. 23]  
+LeetCode (40) Combination Sum II  
+LeetCode (535) Encode and Decode TinyURL
+
 </div>
 </details>
