@@ -1058,5 +1058,14 @@ LeetCode (535) Encode and Decode TinyURL
 LeetCode (284) Peeking Iterator  
 LeetCode (1396) Design Underground System
 
+## [2022. 04. 26]  
+LeetCode (1584) Min Cost to Connect All Points
+
+## [2022. 04. 27]  
+LeetCode (83) Remove Duplicates from Sorted List
+
+## [2022. 04. 29]  
+LeetCode (785) Is Graph Bipartite?
+
 </div>
 </details>
