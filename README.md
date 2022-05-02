@@ -1067,5 +1067,11 @@ LeetCode (83) Remove Duplicates from Sorted List
 ## [2022. 04. 29]  
 LeetCode (785) Is Graph Bipartite?
 
+## [2022. 05. 01]  
+LeetCode (844) Backspace String Compare
+
+## [2022. 05. 02]  
+LeetCode (905) Sort Array By Parity
+
 </div>
 </details>
