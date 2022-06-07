@@ -1076,5 +1076,11 @@ LeetCode (905) Sort Array By Parity
 ## [2022. 05. 03]  
 LeetCode (581) Shortest Unsorted Continuous Subarray
 
+## [2022. 05. 27]  
+LeetCode (1342) Number of Steps to Reduce a Number to Zero
+
+## [2022. 06. 07]  
+LeetCode (88) Merge Sorted Array
+
 </div>
 </details>
