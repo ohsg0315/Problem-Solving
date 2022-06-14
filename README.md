@@ -1088,5 +1088,11 @@ LeetCode (48) Rotate Image
 ## [2022. 06. 09]  
 LeetCode (167) Two Sum II - Input Array Is Sorted
 
+## [2022. 06. 10]  
+LeetCode (1480) Running Sum of 1d Array
+
+## [2022. 06. 14]  
+LeetCode (120) Triangle
+
 </div>
 </details>
