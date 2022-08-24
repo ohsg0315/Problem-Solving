@@ -1094,5 +1094,8 @@ LeetCode (1480) Running Sum of 1d Array
 ## [2022. 06. 14]  
 LeetCode (120) Triangle
 
+## [2022. 08. 24]
+LeetCode (724) Find Pivot Index
+
 </div>
 </details>
