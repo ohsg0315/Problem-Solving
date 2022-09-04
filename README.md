@@ -1097,5 +1097,9 @@ LeetCode (120) Triangle
 ## [2022. 08. 24]
 LeetCode (724) Find Pivot Index
 
+## [2022.09. 04]  
+BOJ (1300) K번째 수  
+LeetCode (278) First Bad Version
+
 </div>
 </details>
