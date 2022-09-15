@@ -1116,7 +1116,11 @@ LeetCode (94) - Binary Tree Inorder Traversal
 LeetCode (876) - Middle of the Linked List
 
 ## [2022. 09. 14]  
-LeetCode (3) Longest Substring Without Repeating Characters
+LeetCode (3) - Longest Substring Without Repeating Characters
+
+## [2022. 09. 15]  
+LeetCode (695) - Max Area of Island  
+LeetCode (733) - Flood Fill
 
 </div>
 </details>
