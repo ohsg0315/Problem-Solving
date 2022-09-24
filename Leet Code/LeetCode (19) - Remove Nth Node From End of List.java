@@ -1,20 +1,29 @@
 /**
- * Definition for a binary tree node.
- * public class TreeNode {
+ * Definition for singly-linked list.
+ * public class ListNode {
  *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
 class Solution {
-    public List<Integer> inorderTraversal(TreeNode root) {
-        
+    public ListNode removeNthFromEnd(ListNode head, int n) {
+        ListNode slow = new ListNode(), fast = head, result = slow;
+        slow.next = head;
+
+        while (--n > 0) {
+            fast = fast.next;
+        }
+
+        while (fast.next != null) {
+            slow = slow.next;
+            fast = fast.next;
+        }
+
+        slow.next = slow.next.next;
+
+        return result.next;
     }
 }
